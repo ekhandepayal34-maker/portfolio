@@ -16,6 +16,3 @@ My projects and coding practice.
 - Data Analytics
 - Machine Learning
 
-## Connect with me
-LinkedIn:
-Email:
